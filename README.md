@@ -1,4 +1,4 @@
-# servicedelaypredictor
+# Service delay predictor
 This is an example to show how Spark ML could be used to predict response time of a service for a server-side application.
 The number of parameters that model a service for our ml-based module can differe and we could intensify the important parameters with suitalbe coefficients.
 # Ideas
